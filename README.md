@@ -3,10 +3,10 @@
 
 ## 📸 Dashboard Screenshots
 
-![Executive Summary](dashboard_page1.(Executive Summary).png)
-![Fraud Analyse](dashboard_page2. (Fraud Analyse).png)
-![Zeitanalyse](dashboard_page3.pn(Zeitanalyse).png)
-![Kunden & Geografie](dashboard_page4.(Kunden Geografie).png)
+![Executive Summary](dashboard_page1 (Executive Summary).png)
+![Fraud Analyse](dashboard_page2 (Fraud Analyse).png)
+![Zeitanalyse](dashboard_page3 (Zeitanalyse).png)
+![Kunden & Geografie](dashboard_page4 (Kunden Geografie).png)
 ---
 
 ## 📋 Projektübersicht
