@@ -3,8 +3,6 @@
 
 ## 📸 Dashboard Screenshots
 
-## 📸 Dashboard Screenshots
-
 ![Executive Summary](dashboard_page1.png)
 ![Fraud Analyse](dashboard_page2.png)
 ![Zeitanalyse](dashboard_page3.png)
